@@ -1,0 +1,19 @@
+1. Some similarities between Yelp and Microsoft Code Review Guidelines include:
+    a. Provide only clear and consise problems with the code.
+    b. Don't critize the coder, instead respectly point out flaws in their code
+
+   Some differences between Yelp and Microsoft Code Review Guidelines include:
+    a. Microsoft likes to use Emoji Code to describe problems, while Yelp prefers clear descriptions
+    b. Yelp doesn't want the review to edit or add to the code, while Microsoft feels like adding additional tests can be a benefit.
+
+   What items should be present in a code review checklist for a development team:
+    a. Code Style and Formatting
+    b. Code Documentation
+    c. Code Quality and Performance
+    d. Code Tests and Testing
+    e. Security Issues
+    f. If the code can be deploy in its current state
+    
+2. Example of a "good" code review
+
+3. Example of a "bad" code review

@@ -1,2 +1,2 @@
-Torrin (torrin) 
+Torrin Conrath (torrin) 
 Ken Johnson (kenmjohnson03)

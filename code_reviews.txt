@@ -12,8 +12,29 @@
     c. Code Quality and Performance
     d. Code Tests and Testing
     e. Security Issues
-    f. If the code can be deploy in its current state
-    
+    f. If the code can be deployed in its current state
+
 2. Example of a "good" code review
 
+   Link: https://dev.to/mporam/good-code-reviews-43kk
+
+   This provides a code review I would be happy to see. It shows both the author and checking respectly going back and forth asking questions about code. The checker asks a question about 
+   an issue of code performance and the author explains why he wrote the code that way. Lastly, the checker provides a solution that fulfills the requirements of the code and improves the 
+   code's performance.
+
+   This code review shows how a code checker can be both respectful towards the author and provide relevant solutions that help the author achieve his goal with his current code. The 
+   checker checked and rewrote the code to assist him to developing possible code quality solutions for the author. This presents how a code quality checker can assist the development 
+   process.
+   
 3. Example of a "bad" code review
+
+   Link: https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
+    
+   Looking at the "Unresolved conflicts error" example it shows the author and checker going back and forth about the way the code creating his attempt() method. The checker suggests 
+   adding getter and setter methods, while the author states that they aren't needed.
+
+   This results in getting no progress done and can only be resolved with a third-party who has more authority than both of them. During code review, as the author make sure to provide 
+   documentation explaining why you went with that approach. Futhermore, as the reviewer make sure you check the code for its quality and performance. It the code performs better with a 
+   getter and setter method make sure to include why and ways to implement that. Don't resort to blaming the author and forcing him to use your method without proper evidence that it would 
+   perform better.
+
